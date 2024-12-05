@@ -6,8 +6,8 @@ listOfFiles=[
     f"data/chat_data.db",
     "database.py",
     "models.py",
-    "requirements.txt"
-    "config.py"
+    "requirements.txt",
+    "config.py",
     "app.py"
 ]
 
